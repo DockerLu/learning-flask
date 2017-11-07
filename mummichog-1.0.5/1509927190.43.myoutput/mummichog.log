@@ -1,0 +1,20 @@
+mummichog version: 1.0.5
+pwd: /home/luxiong/Downloads/mummichog-1.0.5
+user command: mummichog/main.py -f test/testdata.txt -o myoutput
+
+
+Started @ Sun Nov  5 19:13:10 2017
+
+Loading metabolic network MFN_1.10.2...
+cpds with MW: 2016
+Using 394 features (p < 0.001000) as significant list.
+Got 394 significant features from 3878 references
+
+Pathway Analysis...
+query_set_size = 184 compounds
+total_feature_num = 973 compounds
+Resampling, 100 permutations to estimate background ...
+
+Pathway background is estimated on 11900 random pathway values
+
+Modular Analysis, using 100 permutations ...

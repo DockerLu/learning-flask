@@ -1,0 +1,9 @@
+mummichog version: 1.0.5
+pwd: /home/luxiong/Downloads/mummichog-1.0.5/mummichog
+user command: main.py -f test/testdata.txt -o myoutput
+
+
+Started @ Sun Nov  5 19:16:10 2017
+
+Loading metabolic network MFN_1.10.2...
+cpds with MW: 2016

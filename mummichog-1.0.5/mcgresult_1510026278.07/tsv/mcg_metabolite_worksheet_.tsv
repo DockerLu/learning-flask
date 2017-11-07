@@ -1,0 +1,164 @@
+Compound_ID	name	input_mz	match_form	mz_difference	in_pathways	evidence_score	MW	all_possibles
+C00128	CMP-N-acetylneuraminate	616.1549	M(C13)+H[1+]	-0.0031	Glycosphingolipid biosynthesis - lactoseries$Glycosphingolipid metabolism$Sialic acid metabolism$Keratan sulfate biosynthesis$N-Glycan biosynthesis$Blood Group Biosynthesis$Glycosphingolipid biosynthesis - ganglioseries$Aminosugars metabolism$Glycosphingolipid biosynthesis - neolactoseries$Glycosphingolipid biosynthesis - globoseries$O-Glycan biosynthesis	5	614.1473
+C00128	CMP-N-acetylneuraminate	319.0695	M+H+Na[2+]	-0.0024	Glycosphingolipid biosynthesis - lactoseries$Glycosphingolipid metabolism$Sialic acid metabolism$Keratan sulfate biosynthesis$N-Glycan biosynthesis$Blood Group Biosynthesis$Glycosphingolipid biosynthesis - ganglioseries$Aminosugars metabolism$Glycosphingolipid biosynthesis - neolactoseries$Glycosphingolipid biosynthesis - globoseries$O-Glycan biosynthesis	5	614.1473
+C00128	CMP-N-acetylneuraminate	617.1579	M(Cl37)+H[1+]	0.0061	Glycosphingolipid biosynthesis - lactoseries$Glycosphingolipid metabolism$Sialic acid metabolism$Keratan sulfate biosynthesis$N-Glycan biosynthesis$Blood Group Biosynthesis$Glycosphingolipid biosynthesis - ganglioseries$Aminosugars metabolism$Glycosphingolipid biosynthesis - neolactoseries$Glycosphingolipid biosynthesis - globoseries$O-Glycan biosynthesis	5	614.1473
+C04640	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine; 1-(5'-Phosphoribosyl)-N-formylglycinamidine; 5'-Phosphoribosyl-N-formylglycinamidine; 5'-Phosphoribosylformylglycinamidine; 2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine	314.0776	M+H[1+]	0.0028	Purine metabolism	6	313.0675
+C04640	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine; 1-(5'-Phosphoribosyl)-N-formylglycinamidine; 5'-Phosphoribosyl-N-formylglycinamidine; 5'-Phosphoribosylformylglycinamidine; 2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine	158.044	M(C13)+2H[2+]	0.0013	Purine metabolism	6	313.0675
+CE2172		166.0853	M+H[1+]	-0.001	Tyrosine metabolism	7	165.079	among possibles C00079,CE2172
+CE2172		167.0886	M(C13)+H[1+]	-0.0011	Tyrosine metabolism	7	165.079	among possibles C00079,CE2172
+C00836	Sphinganine; Dihydrosphingosine; 2-Amino-1,3-dihydroxyoctadecane	302.304	M+H[1+]	-0.0014	Glycosphingolipid metabolism$Glycerophospholipid metabolism	5	301.2981
+C01185	Nicotinate D-ribonucleotide; beta-Nicotinate D-ribonucleotide; Nicotinate ribonucleotide; Nicotinic acid ribonucleotide	336.0461	M[1+]	-0.0023	Vitamin B3 (nicotinate and nicotinamide) metabolism	5	336.0484
+hpdcacrn	heptadecanoyl carnitine	436.3408	M+Na[1+]	0.001	Carnitine shuttle	3	413.3505
+C01732	Mesaconate	133.0289	M(S34)+H[1+]	-0.0008	C5-Branched dibasic acid metabolism	8	130.0266	among possibles C00490,C01732
+C01732	Mesaconate	131.0331	M+H[1+]	-0.0008	C5-Branched dibasic acid metabolism	8	130.0266	among possibles C00490,C01732
+C01732	Mesaconate	168.9891	M+K[1+]	-0.0003	C5-Branched dibasic acid metabolism	8	130.0266	among possibles C00490,C01732
+C16634	5-Fluorouridine monophosphate	345.0277	M(Cl37)+H[1+]	-0.0032	Drug metabolism - other enzymes	8	342.0264
+C16634	5-Fluorouridine monophosphate	345.0277	M(S34)+H[1+]	-0.0018	Drug metabolism - other enzymes	8	342.0264
+C16634	5-Fluorouridine monophosphate	426.9945	M+HCOOK[1+]	-0.0005	Drug metabolism - other enzymes	8	342.0264
+C16634	5-Fluorouridine monophosphate	343.0359	M+H[1+]	0.0022	Drug metabolism - other enzymes	8	342.0264
+C02220	2-Aminomuconate; 2-Aminomuconic acid; o-Aminomuconate	159.0478	M(C13)+H[1+]	-0.0004	Tryptophan metabolism	9	157.0375
+C02220	2-Aminomuconate; 2-Aminomuconic acid; o-Aminomuconate	160.0417	M(Cl37)+H[1+]	-0.0003	Tryptophan metabolism	9	157.0375
+C02220	2-Aminomuconate; 2-Aminomuconic acid; o-Aminomuconate	160.0417	M(S34)+H[1+]	0.0011	Tryptophan metabolism	9	157.0375
+C02220	2-Aminomuconate; 2-Aminomuconic acid; o-Aminomuconate	159.0492	M(C13)+H[1+]	0.001	Tryptophan metabolism	9	157.0375
+C02220	2-Aminomuconate; 2-Aminomuconic acid; o-Aminomuconate	158.044	M+H[1+]	-0.0008	Tryptophan metabolism	9	157.0375
+C00504	Folate; Pteroylglutamic acid; Folic acid	443.1493	M(C13)+H[1+]	-0.0011	Vitamin B9 (folate) metabolism	11	441.1397
+C00504	Folate; Pteroylglutamic acid; Folic acid	221.5757	M+2H[2+]	-0.0014	Vitamin B9 (folate) metabolism	11	441.1397
+C00504	Folate; Pteroylglutamic acid; Folic acid	442.1462	M+H[1+]	-0.0008	Vitamin B9 (folate) metabolism	11	441.1397
+C00504	Folate; Pteroylglutamic acid; Folic acid	222.0768	M(C13)+2H[2+]	-0.002	Vitamin B9 (folate) metabolism	11	441.1397
+C02712	N-Acetylmethionine	214.0508	M+Na[1+]	-0.0001	Methionine and cysteine metabolism	3	191.0616
+CE5629	1,2-dehydrosalsolinol	180.0823	M(S34)+H[1+]	0.0002	Tyrosine metabolism	12	177.079	among possibles CE5629,CE1918
+CE5629	1,2-dehydrosalsolinol	180.0823	M(Cl37)+H[1+]	-0.0012	Tyrosine metabolism	12	177.079	among possibles CE5629,CE1918
+CE5629	1,2-dehydrosalsolinol	178.0853	M+H[1+]	-0.001	Tyrosine metabolism	12	177.079	among possibles CE5629,CE1918
+CE5629	1,2-dehydrosalsolinol	200.0685	M+Na[1+]	0.0002	Tyrosine metabolism	12	177.079	among possibles CE5629,CE1918
+CE5629	1,2-dehydrosalsolinol	179.0898	M(C13)+H[1+]	0.0001	Tyrosine metabolism	12	177.079	among possibles CE5629,CE1918
+tymsf	Tyramine O-sulfate	219.0515	M(C13)+H[1+]	-0.0001	Tyrosine metabolism	3	217.0409
+tymsf	Tyramine O-sulfate	220.0421	M(S34)+H[1+]	-0.0019	Tyrosine metabolism	3	217.0409
+CE2061		96.0551	M+H+Na[2+]	-0.0007	Linoleate metabolism	11	168.115
+CE2061		169.1212	M+H[1+]	-0.0011	Linoleate metabolism	11	168.115
+CE2061		253.0847	M+HCOOK[1+]	0.0011	Linoleate metabolism	11	168.115
+CE2061		169.1215	M+H[1+]	-0.0008	Linoleate metabolism	11	168.115
+CE2061		191.1058	M+Na[1+]	0.0015	Linoleate metabolism	11	168.115
+C02934	3-Dehydrosphinganine	300.2883	M+H[1+]	-0.0014	Glycosphingolipid metabolism	5	299.2824	among possibles C02934,C00319
+C07501	Felbamate	323.0619	M+HCOOK[1+]	-0.0021	Drug metabolism - cytochrome P450	8	238.0954
+C07501	Felbamate	241.1004	M(S34)+H[1+]	0.0019	Drug metabolism - cytochrome P450	8	238.0954
+C07501	Felbamate	277.0609	M+K[1+]	0.0027	Drug metabolism - cytochrome P450	8	238.0954
+C07501	Felbamate	120.055	M+2H[2+]	0.0	Drug metabolism - cytochrome P450	8	238.0954
+C07501	Felbamate	241.1004	M(Cl37)+H[1+]	0.0005	Drug metabolism - cytochrome P450	8	238.0954
+CE5627	salsoline-1-carboxylate	236.0944	M[1+]	0.0021	Tyrosine metabolism	5	236.0923
+C16584	p-Hydroxyfelbamate	128.0533	M+2H[2+]	0.0009	Drug metabolism - cytochrome P450	7	254.0903	among possibles C16582,C16584
+C16584	p-Hydroxyfelbamate	277.0784	M+Na[1+]	-0.0012	Drug metabolism - cytochrome P450	7	254.0903	among possibles C16582,C16584
+C16584	p-Hydroxyfelbamate	339.0594	M+HCOOK[1+]	0.0005	Drug metabolism - cytochrome P450	7	254.0903	among possibles C16582,C16584
+C16584	p-Hydroxyfelbamate	277.0812	M+Na[1+]	0.0016	Drug metabolism - cytochrome P450	7	254.0903	among possibles C16582,C16584
+C05640	Cinnavalininate	303.0437	M(S34)+H[1+]	0.0024	Tryptophan metabolism	7	300.0382
+C05640	Cinnavalininate	300.0393	M[1+]	0.0011	Tryptophan metabolism	7	300.0382
+C05640	Cinnavalininate	303.0437	M(Cl37)+H[1+]	0.001	Tryptophan metabolism	7	300.0382
+C00570	CDP-ethanolamine	447.0666	M+H[1+]	-0.0011	Glycerophospholipid metabolism	5	446.0604
+C05928	10-Formyltetrahydrofolyl L-glutamate; 10-Formyl-THF-L-glutamate	302.1134	M+2H[2+]	0.0019	Vitamin B9 (folate) metabolism	5	602.2085
+C05928	10-Formyltetrahydrofolyl L-glutamate; 10-Formyl-THF-L-glutamate	313.103	M+H+Na[2+]	0.0005	Vitamin B9 (folate) metabolism	5	602.2085
+C05839	cis-beta-D-Glucosyl-2-hydroxycinnamate; beta-D-Glucosyl-2-coumarinate	349.0871	M+Na[1+]	-0.0024	Hexose phosphorylation	3	326.1002
+C05648	5-Hydroxy-N-formylkynurenine; 5-Hydroxy-N-formyl-L-kynurenine	275.0662	M+Na[1+]	0.0023	Tryptophan metabolism	3	252.0746
+C00437	N-Acetylornithine; N2-Acetyl-L-ornithine	177.1024	M(S34)+H[1+]	-0.0011	Urea cycle/amino group metabolism$Aspartate and asparagine metabolism	6	174.1004
+C00437	N-Acetylornithine; N2-Acetyl-L-ornithine	175.1094	M+H[1+]	0.0017	Urea cycle/amino group metabolism$Aspartate and asparagine metabolism	6	174.1004
+C05841	Nicotinate D-ribonucleoside	256.0808	M[1+]	-0.0013	Vitamin B3 (nicotinate and nicotinamide) metabolism	5	256.0821
+C00137	myo-Inositol	180.0645	M[1+]	0.0011	Phosphatidylinositol phosphate metabolism$Glycerophospholipid metabolism$Sialic acid metabolism	6	180.0634	among possibles C00159,C02336,C00221,C00962,C00095,C01582,C00984,C00267,C00124,C00031,C00137,C00936,C00738
+C00137	myo-Inositol	249.0569	M+HCOONa[1+]	-0.0012	Phosphatidylinositol phosphate metabolism$Glycerophospholipid metabolism$Sialic acid metabolism	6	180.0634	among possibles C00159,C02336,C00221,C00962,C00095,C01582,C00984,C00267,C00124,C00031,C00137,C00936,C00738
+C00330	Deoxyguanosine	135.0561	M(C13)+2H[2+]	-0.0013	Purine metabolism	3	267.0968	among possibles C00212,C00330
+C00330	Deoxyguanosine	306.0621	M+K[1+]	0.0025	Purine metabolism	3	267.0968	among possibles C00212,C00330
+C00330	Deoxyguanosine	135.0567	M(C13)+2H[2+]	-0.0007	Purine metabolism	3	267.0968	among possibles C00212,C00330
+C06868	Carbamazepine	236.0944	M[1+]	-0.0006	Drug metabolism - cytochrome P450	5	236.095
+C00624	N-Acetyl-L-glutamate; N-Acetyl-L-glutamic acid	228.028	M+K[1+]	0.0015	Urea cycle/amino group metabolism	9	189.0637
+C00624	N-Acetyl-L-glutamate; N-Acetyl-L-glutamic acid	190.07	M+H[1+]	-0.001	Urea cycle/amino group metabolism	9	189.0637
+C00624	N-Acetyl-L-glutamate; N-Acetyl-L-glutamic acid	191.0757	M(C13)+H[1+]	0.0013	Urea cycle/amino group metabolism	9	189.0637
+C00645	N-Acetyl-D-mannosamine	224.0945	M(S34)+H[1+]	0.0015	Aminosugars metabolism$Sialic acid metabolism	9	221.0899	among possibles C00140,C01132,C00645
+C00645	N-Acetyl-D-mannosamine	221.0881	M[1+]	-0.0018	Aminosugars metabolism$Sialic acid metabolism	9	221.0899	among possibles C00140,C01132,C00645
+C00645	N-Acetyl-D-mannosamine	224.0945	M(Cl37)+H[1+]	0.0001	Aminosugars metabolism$Sialic acid metabolism	9	221.0899	among possibles C00140,C01132,C00645
+C00645	N-Acetyl-D-mannosamine	260.0516	M+K[1+]	-0.0011	Aminosugars metabolism$Sialic acid metabolism	9	221.0899	among possibles C00140,C01132,C00645
+C05796	Galactan	371.1583	M+H[1+]	0.0035	Galactose metabolism$Sialic acid metabolism	5	370.1475	among possibles C05796,C00718
+CE1936	spermine dialdehyde	102.0908	M+2H[2+]	-0.0005	Aspartate and asparagine metabolism	3	202.1681
+C05647	Formyl-5-hydroxykynurenamine	277.0784	M+HCOONa[1+]	-0.0011	Tryptophan metabolism	3	208.0848	among possibles C05647,C00328
+C05647	Formyl-5-hydroxykynurenamine	210.0966	M(C13)+H[1+]	0.0011	Tryptophan metabolism	3	208.0848	among possibles C05647,C00328
+C05647	Formyl-5-hydroxykynurenamine	277.0812	M+HCOONa[1+]	0.0017	Tryptophan metabolism	3	208.0848	among possibles C05647,C00328
+C04537	N,N'-Diacetylchitobiosyldiphosphodolichol; Chitobiosyldiphosphodolichol	849.236	M+HCOONa[1+]	-0.007	N-Glycan biosynthesis	4	780.2483
+C04537	N,N'-Diacetylchitobiosyldiphosphodolichol; Chitobiosyldiphosphodolichol	865.2138	M+HCOOK[1+]	-0.0031	N-Glycan biosynthesis	4	780.2483
+C04537	N,N'-Diacetylchitobiosyldiphosphodolichol; Chitobiosyldiphosphodolichol	819.2057	M+K[1+]	-0.0054	N-Glycan biosynthesis	4	780.2483
+C04776	D-Galactosyl-3-(N-acetyl-beta-D-galactosaminyl)-L-serine	236.0944	M+2H[2+]	-0.0003	Sialic acid metabolism	3	470.1748
+C03758	Dopamine; 4-(2-Aminoethyl)-1,2-benzenediol; 4-(2-Aminoethyl)benzene-1,2-diol; 3,4-Dihydroxyphenethylamine; 2-(3,4-Dihydroxyphenyl)ethylamine	155.0888	M(C13)+H[1+]	-0.0009	Tyrosine metabolism	10	153.079
+C03758	Dopamine; 4-(2-Aminoethyl)-1,2-benzenediol; 4-(2-Aminoethyl)benzene-1,2-diol; 3,4-Dihydroxyphenethylamine; 2-(3,4-Dihydroxyphenyl)ethylamine	176.0692	M+Na[1+]	0.0009	Tyrosine metabolism	10	153.079
+C03758	Dopamine; 4-(2-Aminoethyl)-1,2-benzenediol; 4-(2-Aminoethyl)benzene-1,2-diol; 3,4-Dihydroxyphenethylamine; 2-(3,4-Dihydroxyphenyl)ethylamine	154.0855	M+H[1+]	-0.0008	Tyrosine metabolism	10	153.079
+C03758	Dopamine; 4-(2-Aminoethyl)-1,2-benzenediol; 4-(2-Aminoethyl)benzene-1,2-diol; 3,4-Dihydroxyphenethylamine; 2-(3,4-Dihydroxyphenyl)ethylamine	176.069	M+Na[1+]	0.0007	Tyrosine metabolism	10	153.079
+C03758	Dopamine; 4-(2-Aminoethyl)-1,2-benzenediol; 4-(2-Aminoethyl)benzene-1,2-diol; 3,4-Dihydroxyphenethylamine; 2-(3,4-Dihydroxyphenyl)ethylamine	155.0897	M(C13)+H[1+]	0.0	Tyrosine metabolism	10	153.079
+C01416	Cocaine; l-Cocain; beta-Cocain	305.156	M(C13)+H[1+]	-0.0018	Alkaloid biosynthesis II	4	303.1471
+C01416	Cocaine; l-Cocain; beta-Cocain	388.1146	M+HCOOK[1+]	-0.0011	Alkaloid biosynthesis II	4	303.1471
+C01416	Cocaine; l-Cocain; beta-Cocain	372.141	M+HCOONa[1+]	-0.0008	Alkaloid biosynthesis II	4	303.1471
+C02532	D-O-Phosphoserine	207.9975	M+Na[1+]	-0.0007		8	185.0089	among possibles C02532,C01005
+C02532	D-O-Phosphoserine	186.0165	M+H[1+]	0.0003		8	185.0089	among possibles C02532,C01005
+C03824	2-Aminomuconate semialdehyde; 2-Aminomuconate 6-semialdehyde	142.0494	M+H[1+]	-0.0005	Tryptophan metabolism	6	141.0426
+C03824	2-Aminomuconate semialdehyde; 2-Aminomuconate 6-semialdehyde	144.0475	M(Cl37)+H[1+]	0.0004	Tryptophan metabolism	6	141.0426
+C03824	2-Aminomuconate semialdehyde; 2-Aminomuconate 6-semialdehyde	142.0501	M+H[1+]	0.0002	Tryptophan metabolism	6	141.0426
+CE0520	(R)-glycerol 1-acetate	135.0661	M+H[1+]	0.0009	Glycerophospholipid metabolism	5	134.0579	among possibles C01801,CE0520
+C00055	CMP; Cytidine-5'-monophosphate; Cytidylic acid	326.0566	M(Cl37)+H[1+]	0.0002	Phosphatidylinositol phosphate metabolism$Glycosphingolipid biosynthesis - lactoseries$Glycosphingolipid metabolism$Sialic acid metabolism$Pyrimidine metabolism$Keratan sulfate biosynthesis$N-Glycan biosynthesis$Blood Group Biosynthesis$Glycosphingolipid biosynthesis - ganglioseries$Aminosugars metabolism$Glycerophospholipid metabolism$Glycosphingolipid biosynthesis - neolactoseries$Glycosphingolipid biosynthesis - globoseries$O-Glycan biosynthesis	4	323.0519
+C00055	CMP; Cytidine-5'-monophosphate; Cytidylic acid	362.0125	M+K[1+]	-0.0022	Phosphatidylinositol phosphate metabolism$Glycosphingolipid biosynthesis - lactoseries$Glycosphingolipid metabolism$Sialic acid metabolism$Pyrimidine metabolism$Keratan sulfate biosynthesis$N-Glycan biosynthesis$Blood Group Biosynthesis$Glycosphingolipid biosynthesis - ganglioseries$Aminosugars metabolism$Glycerophospholipid metabolism$Glycosphingolipid biosynthesis - neolactoseries$Glycosphingolipid biosynthesis - globoseries$O-Glycan biosynthesis	4	323.0519
+C00055	CMP; Cytidine-5'-monophosphate; Cytidylic acid	326.0566	M(S34)+H[1+]	0.0016	Phosphatidylinositol phosphate metabolism$Glycosphingolipid biosynthesis - lactoseries$Glycosphingolipid metabolism$Sialic acid metabolism$Pyrimidine metabolism$Keratan sulfate biosynthesis$N-Glycan biosynthesis$Blood Group Biosynthesis$Glycosphingolipid biosynthesis - ganglioseries$Aminosugars metabolism$Glycerophospholipid metabolism$Glycosphingolipid biosynthesis - neolactoseries$Glycosphingolipid biosynthesis - globoseries$O-Glycan biosynthesis	4	323.0519
+C00725	Lipoate; Lipoic acid; alpha-Lipoic acid; Thioctic acid	207.051	M+H[1+]	0.0002	Ascorbate (Vitamin C) and Aldarate Metabolism$Lipoate metabolism	8	206.0435
+C00725	Lipoate; Lipoic acid; alpha-Lipoic acid; Thioctic acid	104.03	M+2H[2+]	0.001	Ascorbate (Vitamin C) and Aldarate Metabolism$Lipoate metabolism	8	206.0435
+C00074	Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	167.981	M[1+]	-0.0014	Purine metabolism$Sialic acid metabolism$Pyrimidine metabolism$TCA cycle$Glycolysis and Gluconeogenesis$Aminosugars metabolism$Carbon fixation	10	167.9824
+C00074	Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	168.9891	M+H[1+]	-0.0006	Purine metabolism$Sialic acid metabolism$Pyrimidine metabolism$TCA cycle$Glycolysis and Gluconeogenesis$Aminosugars metabolism$Carbon fixation	10	167.9824
+C00242	Guanine; 2-Amino-6-hydroxypurine	152.058	M+H[1+]	0.0013	Urea cycle/amino group metabolism$Purine metabolism	6	151.0494
+C00242	Guanine; 2-Amino-6-hydroxypurine	220.0421	M+HCOONa[1+]	-0.002	Urea cycle/amino group metabolism$Purine metabolism	6	151.0494
+C01551	Allantoin; 5-Ureidohydantoin; Glyoxyldiureide	161.046	M(S34)+H[1+]	-0.0011	Purine metabolism	7	158.044
+C01551	Allantoin; 5-Ureidohydantoin; Glyoxyldiureide	161.0491	M(Cl37)+H[1+]	0.0006	Purine metabolism	7	158.044
+C01551	Allantoin; 5-Ureidohydantoin; Glyoxyldiureide	158.044	M[1+]	0.0	Purine metabolism	7	158.044
+CE5536	adrenochrome	264.0247	M+HCOOK[1+]	-0.0021	Tyrosine metabolism	6	179.0582	among possibles C01586,CE5536
+CE5536	adrenochrome	180.0645	M+H[1+]	-0.001	Tyrosine metabolism	6	179.0582	among possibles C01586,CE5536
+C00051	Glutathione; 5-L-Glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; gamma-L-Glutamyl-L-cysteinyl-glycine; GSH; Reduced glutathione	310.0853	M(S34)+H[1+]	-0.0016	Pyruvate Metabolism$Tyrosine metabolism$Prostaglandin formation from arachidonate$Arachidonic acid metabolism$Androgen and estrogen biosynthesis and metabolism$Glycine, serine, alanine and threonine metabolism$Glutathione Metabolism$Tryptophan metabolism$Aspartate and asparagine metabolism$Xenobiotics metabolism$Methionine and cysteine metabolism$Leukotriene metabolism$Putative anti-Inflammatory metabolites formation from EPA$Linoleate metabolism$Glutamate metabolism$Ascorbate (Vitamin C) and Aldarate Metabolism$Histidine metabolism	4	307.0838
+C00051	Glutathione; 5-L-Glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; gamma-L-Glutamyl-L-cysteinyl-glycine; GSH; Reduced glutathione	310.0853	M(Cl37)+H[1+]	-0.003	Pyruvate Metabolism$Tyrosine metabolism$Prostaglandin formation from arachidonate$Arachidonic acid metabolism$Androgen and estrogen biosynthesis and metabolism$Glycine, serine, alanine and threonine metabolism$Glutathione Metabolism$Tryptophan metabolism$Aspartate and asparagine metabolism$Xenobiotics metabolism$Methionine and cysteine metabolism$Leukotriene metabolism$Putative anti-Inflammatory metabolites formation from EPA$Linoleate metabolism$Glutamate metabolism$Ascorbate (Vitamin C) and Aldarate Metabolism$Histidine metabolism	4	307.0838
+C00051	Glutathione; 5-L-Glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; gamma-L-Glutamyl-L-cysteinyl-glycine; GSH; Reduced glutathione	309.0929	M(C13)+H[1+]	-0.0016	Pyruvate Metabolism$Tyrosine metabolism$Prostaglandin formation from arachidonate$Arachidonic acid metabolism$Androgen and estrogen biosynthesis and metabolism$Glycine, serine, alanine and threonine metabolism$Glutathione Metabolism$Tryptophan metabolism$Aspartate and asparagine metabolism$Xenobiotics metabolism$Methionine and cysteine metabolism$Leukotriene metabolism$Putative anti-Inflammatory metabolites formation from EPA$Linoleate metabolism$Glutamate metabolism$Ascorbate (Vitamin C) and Aldarate Metabolism$Histidine metabolism	4	307.0838
+C00402	D-Aspartate	156.0256	M+Na[1+]	-0.0012	Alanine and Aspartate Metabolism$Aspartate and asparagine metabolism	9	133.0375	among possibles C00402,C00049
+C00402	D-Aspartate	202.0339	M+HCOONa[1+]	0.0017	Alanine and Aspartate Metabolism$Aspartate and asparagine metabolism	9	133.0375	among possibles C00402,C00049
+C00402	D-Aspartate	134.046	M+H[1+]	0.0012	Alanine and Aspartate Metabolism$Aspartate and asparagine metabolism	9	133.0375	among possibles C00402,C00049
+C00402	D-Aspartate	134.0441	M+H[1+]	-0.0007	Alanine and Aspartate Metabolism$Aspartate and asparagine metabolism	9	133.0375	among possibles C00402,C00049
+ttdcrn	tetradecanoyl carnitine	372.3093	M+H[1+]	-0.0015	Carnitine shuttle	5	371.3036
+C16548	N,N-Didesmethyltamoxifen	366.1834	M+Na[1+]	0.0005	Drug metabolism - cytochrome P450	10	343.1936
+C16548	N,N-Didesmethyltamoxifen	344.2034	M+H[1+]	0.0025	Drug metabolism - cytochrome P450	10	343.1936
+C16548	N,N-Didesmethyltamoxifen	382.1527	M+K[1+]	-0.0037	Drug metabolism - cytochrome P450	10	343.1936
+CE5541	adrenochrome o-semiquinone	180.0645	M[1+]	-0.0016	Tyrosine metabolism	6	180.0661
+CE5541	adrenochrome o-semiquinone	91.542	M(C13)+2H[2+]	-0.0	Tyrosine metabolism	6	180.0661
+C00025	L-Glutamate	170.0414	M+Na[1+]	-0.0011	Purine metabolism$Glycine, serine, alanine and threonine metabolism$Methionine and cysteine metabolism$Alanine and Aspartate Metabolism$Vitamin B9 (folate) metabolism$Pyrimidine metabolism$Vitamin B3 (nicotinate and nicotinamide) metabolism$Tryptophan metabolism$Aspartate and asparagine metabolism$Nitrogen metabolism$Urea cycle/amino group metabolism$Aminosugars metabolism$Putative anti-Inflammatory metabolites formation from EPA$Arachidonic acid metabolism$Tyrosine metabolism$Beta-Alanine metabolism$Valine, leucine and isoleucine degradation$Arginine and Proline Metabolism$Glutamate metabolism$Histidine metabolism$Butanoate metabolism$Lysine metabolism$Glutathione Metabolism	7	147.0532	among possibles C00025,C00302,C05938
+C00025	L-Glutamate	150.0576	M(Cl37)+H[1+]	-0.0001	Purine metabolism$Glycine, serine, alanine and threonine metabolism$Methionine and cysteine metabolism$Alanine and Aspartate Metabolism$Vitamin B9 (folate) metabolism$Pyrimidine metabolism$Vitamin B3 (nicotinate and nicotinamide) metabolism$Tryptophan metabolism$Aspartate and asparagine metabolism$Nitrogen metabolism$Urea cycle/amino group metabolism$Aminosugars metabolism$Putative anti-Inflammatory metabolites formation from EPA$Arachidonic acid metabolism$Tyrosine metabolism$Beta-Alanine metabolism$Valine, leucine and isoleucine degradation$Arginine and Proline Metabolism$Glutamate metabolism$Histidine metabolism$Butanoate metabolism$Lysine metabolism$Glutathione Metabolism	7	147.0532	among possibles C00025,C00302,C05938
+C00025	L-Glutamate	186.0165	M+K[1+]	0.0005	Purine metabolism$Glycine, serine, alanine and threonine metabolism$Methionine and cysteine metabolism$Alanine and Aspartate Metabolism$Vitamin B9 (folate) metabolism$Pyrimidine metabolism$Vitamin B3 (nicotinate and nicotinamide) metabolism$Tryptophan metabolism$Aspartate and asparagine metabolism$Nitrogen metabolism$Urea cycle/amino group metabolism$Aminosugars metabolism$Putative anti-Inflammatory metabolites formation from EPA$Arachidonic acid metabolism$Tyrosine metabolism$Beta-Alanine metabolism$Valine, leucine and isoleucine degradation$Arginine and Proline Metabolism$Glutamate metabolism$Histidine metabolism$Butanoate metabolism$Lysine metabolism$Glutathione Metabolism	7	147.0532	among possibles C00025,C00302,C05938
+C00025	L-Glutamate	150.0576	M(S34)+H[1+]	0.0013	Purine metabolism$Glycine, serine, alanine and threonine metabolism$Methionine and cysteine metabolism$Alanine and Aspartate Metabolism$Vitamin B9 (folate) metabolism$Pyrimidine metabolism$Vitamin B3 (nicotinate and nicotinamide) metabolism$Tryptophan metabolism$Aspartate and asparagine metabolism$Nitrogen metabolism$Urea cycle/amino group metabolism$Aminosugars metabolism$Putative anti-Inflammatory metabolites formation from EPA$Arachidonic acid metabolism$Tyrosine metabolism$Beta-Alanine metabolism$Valine, leucine and isoleucine degradation$Arginine and Proline Metabolism$Glutamate metabolism$Histidine metabolism$Butanoate metabolism$Lysine metabolism$Glutathione Metabolism	7	147.0532	among possibles C00025,C00302,C05938
+C14787	(1S,2R)-Naphthalene 1,2-oxide	147.0633	M(Cl37)+H[1+]	0.0013	Xenobiotics metabolism	11	144.0575	among possibles C11713,C11714,C14787,C14786
+C14787	(1S,2R)-Naphthalene 1,2-oxide	144.0564	M[1+]	-0.0011	Xenobiotics metabolism	11	144.0575	among possibles C11713,C11714,C14787,C14786
+C14787	(1S,2R)-Naphthalene 1,2-oxide	145.0641	M+H[1+]	-0.0007	Xenobiotics metabolism	11	144.0575	among possibles C11713,C11714,C14787,C14786
+C00780	3-(2-Aminoethyl)-1H-indol-5-ol; Serotonin; 5-Hydroxytryptamine; Enteramine	177.1024	M+H[1+]	0.0001	Tryptophan metabolism	6	176.095
+C00780	3-(2-Aminoethyl)-1H-indol-5-ol; Serotonin; 5-Hydroxytryptamine; Enteramine	261.0637	M+HCOOK[1+]	0.0001	Tryptophan metabolism	6	176.095
+C05931	N-Succinyl-L-glutamate; (2S)-2-(3-Carboxypropanoylamino)pentanedioic acid	250.0712	M(S34)+H[1+]	-0.0011	Aspartate and asparagine metabolism	4	247.0692
+C05931	N-Succinyl-L-glutamate; (2S)-2-(3-Carboxypropanoylamino)pentanedioic acid	250.0712	M(Cl37)+H[1+]	-0.0025	Aspartate and asparagine metabolism	4	247.0692
+C05931	N-Succinyl-L-glutamate; (2S)-2-(3-Carboxypropanoylamino)pentanedioic acid	249.0796	M(C13)+H[1+]	-0.0003	Aspartate and asparagine metabolism	4	247.0692
+C05634	5-Hydroxyindoleacetaldehyde	177.0723	M(C13)+H[1+]	-0.0017	Tryptophan metabolism	9	175.0633	among possibles C00954,C05634
+C05634	5-Hydroxyindoleacetaldehyde	176.0692	M+H[1+]	-0.0014	Tryptophan metabolism	9	175.0633	among possibles C00954,C05634
+C05634	5-Hydroxyindoleacetaldehyde	214.0251	M+K[1+]	-0.001	Tryptophan metabolism	9	175.0633	among possibles C00954,C05634
+C05634	5-Hydroxyindoleacetaldehyde	176.069	M+H[1+]	-0.0016	Tryptophan metabolism	9	175.0633	among possibles C00954,C05634
+CE6506		195.0786	M+K[1+]	0.0008	Linoleate metabolism	10	156.115	among possibles CE2006,CE6506
+CE6506		157.1216	M+H[1+]	-0.0007	Linoleate metabolism	10	156.115	among possibles CE2006,CE6506
+CE6506		179.106	M+Na[1+]	0.0017	Linoleate metabolism	10	156.115	among possibles CE2006,CE6506
+C00170	5'-Methylthioadenosine; Methylthioadenosine; S-Methyl-5'-thioadenosine; 5-Methylthioadenosine; 5'-Deoxy-5'-(methylthio)adenosine; Thiomethyladenosine; MTA	320.0817	M+Na[1+]	0.0028	Methionine and cysteine metabolism$Arginine and Proline Metabolism$Urea cycle/amino group metabolism	3	297.0896
+C01045	N-Formyl-L-glutamate	178.0533	M(Cl37)+H[1+]	0.0007	Vitamin B9 (folate) metabolism	4	175.0481	among possibles C01045,C01042
+C01045	N-Formyl-L-glutamate	244.0434	M+HCOONa[1+]	0.0006	Vitamin B9 (folate) metabolism	4	175.0481	among possibles C01045,C01042
+C01045	N-Formyl-L-glutamate	177.0596	M(C13)+H[1+]	0.0008	Vitamin B9 (folate) metabolism	4	175.0481	among possibles C01045,C01042
+C00214	Thymidine; Deoxythymidine	281.0537	M+K[1+]	0.0006	Pyrimidine metabolism	3	242.0903
+C00214	Thymidine; Deoxythymidine	311.0872	M+HCOONa[1+]	0.0022	Pyrimidine metabolism	3	242.0903
+C02571	O-Acetylcarnitine; O-Acetyl-L-carnitine	204.1216	M[1+]	-0.002	Aspartate and asparagine metabolism$Fatty Acid Metabolism	5	204.1236
+C02990	L-Palmitoylcarnitine	400.3405	M+H[1+]	-0.0017	Carnitine shuttle$Saturated fatty acids beta-oxidation	5	399.3349
+C00352	D-Glucosamine 6-phosphate	260.0516	M+H[1+]	-0.0014	Aminosugars metabolism$Hexose phosphorylation	6	259.0457	among possibles C00352,C06377
+C00352	D-Glucosamine 6-phosphate	131.0331	M(C13)+2H[2+]	0.0013	Aminosugars metabolism$Hexose phosphorylation	6	259.0457	among possibles C00352,C06377
+C14851	Benzo[a]pyrene-4,5-oxide	307.0501	M+K[1+]	-0.0015	Xenobiotics metabolism	9	268.0888	among possibles C14851,C14850
+C14851	Benzo[a]pyrene-4,5-oxide	146.0414	M+H+Na[2+]	-0.0013	Xenobiotics metabolism	9	268.0888	among possibles C14851,C14850
+C14851	Benzo[a]pyrene-4,5-oxide	269.0983	M+H[1+]	0.0022	Xenobiotics metabolism	9	268.0888	among possibles C14851,C14850
+C00957	Mercaptopyruvate; 3-Mercaptopyruvate	142.9761	M+Na[1+]	-0.0013	Methionine and cysteine metabolism	4	119.9881
+C00957	Mercaptopyruvate; 3-Mercaptopyruvate	204.9561	M+HCOOK[1+]	-0.0006	Methionine and cysteine metabolism	4	119.9881
+C00147	Adenine; 6-Aminopurine	136.0613	M+H[1+]	-0.0005	Arginine and Proline Metabolism$Purine metabolism	8	135.0545
+C00147	Adenine; 6-Aminopurine	158.044	M+Na[1+]	0.0002	Arginine and Proline Metabolism$Purine metabolism	8	135.0545
+C00147	Adenine; 6-Aminopurine	136.0623	M+H[1+]	0.0005	Arginine and Proline Metabolism$Purine metabolism	8	135.0545
+C00559	Deoxyadenosine	274.0913	M+Na[1+]	0.0002	Purine metabolism	3	251.1018	among possibles C00559,C05198
+C00559	Deoxyadenosine	274.0914	M+Na[1+]	0.0003	Purine metabolism	3	251.1018	among possibles C00559,C05198

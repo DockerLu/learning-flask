@@ -1,0 +1,185 @@
+CPD_ID	CPD_NAME	CPD_STATISTIC
+C00025	L-Glutamate	8.04142981194
+andrstndn	Androstenedione	-6.25310278518
+CE5627	salsoline-1-carboxylate	6.75250280543
+C00068	Thiamin diphosphate	-7.81838283026
+CE5629	1,2-dehydrosalsolinol	-7.53942975324
+C06148	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine	-9.75912484215
+C00140	N-Acetyl-D-glucosamine	11.1897525444
+C05520	2-Amino-3-oxoadipate	-5.21736590386
+C00147	Adenine	12.4368545377
+C01829	O-(4-Hydroxy-3,5-diidophenyl)-3,5-diiodo-L-tyrosine	8.63122362305
+C01107	(R)-5-Phosphomevalonate	-13.1956772871
+C06377	D-Galactosamine 6-phosphate	12.026414889
+C00788	L-Adrenaline	4.6621967173
+C05647	Formyl-5-hydroxykynurenamine	-8.04938589155
+C05642	Formyl-N-acetyl-5-methoxykynurenamine	6.79060275091
+C00437	N-Acetylornithine	14.2666000207
+C05640	Cinnavalininate	-8.12216502906
+C00624	N-Acetyl-L-glutamate	9.98950255003
+C00780	3-(2-Aminoethyl)-1H-indol-5-ol	14.2666000207
+C01586	Hippurate	-4.60350975716
+C05648	5-Hydroxy-N-formylkynurenine	-6.25005645088
+C00534	Pyridoxamine	7.34058417037
+C00559	Deoxyadenosine	-4.73616329116
+tymsf	Tyramine O-sulfate	6.71691741583
+C00235	Dimethylallyl diphosphate	5.49269055331
+C00159	D-Mannose	-4.60350975716
+C05796	Galactan	-6.25310278518
+C04823	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	-8.27665670282
+C02140	Corticosterone	6.8698069389
+C00795	D-Tagatose	-4.60350975716
+C00954	Indole-3-acetate	-4.87222696446
+C00957	Mercaptopyruvate	6.46269196691
+C01134	Pantetheine 4'-phosphate	-10.1115174801
+C02934	3-Dehydrosphinganine	-5.47856830935
+C01132	N-Acetyl-D-galactosamine	11.1897525444
+C02336	beta-D-Fructose	-4.60350975716
+C13747	1,7-Dimethylxanthine	-4.60350975716
+C03758	Dopamine	6.15423274289
+C00221	beta-D-Glucose	-4.60350975716
+C05497	21-Deoxycortisol	6.8698069389
+C01239	N-Acetyl-beta-D-glucosaminylamine	-5.73011194233
+C04148	alpha-N-Phenylacetyl-L-glutamine	6.79060275091
+C00095	D-Fructose	-4.60350975716
+C14180	S-(Hydroxymethyl)glutathione	-5.84531492083
+C04593	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate	7.34058417037
+C00718	Amylose	-6.25310278518
+C03691	CMP-N-glycoloylneuraminate	13.4893332694
+C05839	cis-beta-D-Glucosyl-2-hydroxycinnamate	-7.67587595115
+CE1347	19-Hydroxydeoxycorticosterone	6.8698069389
+CE1918	5-hydroxytryptophol	-7.53942975324
+CE0520	(R)-glycerol 1-acetate	-6.05718196105
+CE1936	spermine dialdehyde	-8.39632852478
+C05548	6-Acetamido-2-oxohexanoate	6.21440814994
+C00800	L-Gulonate	-7.48786750098
+C00032	Heme	-9.27913458944
+C00962	beta-D-Galactose	-4.60350975716
+C00257	D-Gluconic acid	-7.48786750098
+C16596	5-Phenyl-1,3-oxazinane-2,4-dione	11.1897525444
+C01005	O-Phospho-L-serine	4.50747351323
+C00645	N-Acetyl-D-mannosamine	11.1897525444
+C00490	Itaconate	12.026414889
+C00643	5-Hydroxy-L-tryptophan	4.88629588085
+C00330	Deoxyguanosine	6.92679988452
+C02225	2-Methylcitrate	7.34058417037
+C00319	Sphingosine	-5.47856830935
+C01732	Mesaconate	12.026414889
+C02220	2-Aminomuconate	-12.5624353569
+CE2006	CE2006	-10.5585710276
+C00079	L-Phenylalanine	-5.81518830202
+CE5541	adrenochrome o-semiquinone	-4.60350975716
+C05477	21-Hydroxy-5beta-pregnane-3,11,20-trione	6.8698069389
+C07501	Felbamate	-7.02478667309
+C06868	Carbamazepine	6.75250280543
+C04537	N,N'-Diacetylchitobiosyldiphosphodolichol	10.9088223289
+C00870	4-Nitrophenol	-4.19716497488
+C05589	L-Normetanephrine	4.6621967173
+C00074	Phosphoenolpyruvate	5.19227215449
+C05923	2,5-Diaminopyrimidine nucleoside triphosphate	-9.75912484215
+C00242	Guanine	6.71691741583
+C06423	Octanoic acid	-4.09328975737
+C00247	L-Sorbose	-4.60350975716
+C00402	D-Aspartate	-4.59548979712
+C16582	2-Hydroxyfelbamate	-12.138106566
+C16584	p-Hydroxyfelbamate	-12.138106566
+C14849	Benzo[a]pyrene-9,10-oxide	-5.05564623657
+C05938	L-4-Hydroxyglutamate semialdehyde	8.04142981194
+C05488	11-Deoxycortisol	6.8698069389
+C05931	N-Succinyl-L-glutamate	4.96820998136
+C11713	beta-Naphthol	4.99286264904
+C01551	Allantoin	12.4368545377
+C01259	3-Hydroxy-N6,N6,N6-trimethyl-L-lysine	4.57932503361
+C11714	C11714	4.99286264904
+C12205	5-Hydroxyconiferyl alcohol	11.8630366107
+C14784	1,2-Dihydroxy-3,4-epoxy-1,2,3,4-tetrahydronaphthalene	8.7509572293
+C14787	(1S,2R)-Naphthalene 1,2-oxide	4.99286264904
+C14786	(1R,2S)-Naphthalene 1,2-oxide	4.99286264904
+C01801	Deoxyribose	-6.05718196105
+C00302	DL-Glutamate	8.04142981194
+C02571	O-Acetylcarnitine	9.07115957007
+C16360	C16360	-7.48786750098
+C16630	5,6-Dihydro-5-fluorouracil	-4.59548979712
+C16634	5-Fluorouridine monophosphate	-14.2091952724
+C05649	Dihydropteridine	-6.05718196105
+C01582	Galactose	-4.60350975716
+C14854	9-Hydroxybenzo[a]pyrene-4,5-oxide	4.17349971991
+C14851	Benzo[a]pyrene-4,5-oxide	-5.05564623657
+C14850	Benzo[a]pyrene-7,8-oxide	-5.05564623657
+C00570	CDP-ethanolamine	-5.60870250317
+C01416	Cocaine	-9.50651851284
+C05928	10-Formyltetrahydrofolyl L-glutamate	5.54902760712
+C12448	Ecgonine methyl ester	-9.63626743053
+C14556	9-Hydroxybenzo[a]pyrene	-5.05564623657
+C00170	5'-Methylthioadenosine	-6.76019983057
+C02990	L-Palmitoylcarnitine	8.63122362305
+C12214	Aminofructose 6-phosphate	12.026414889
+CE2947	xanthurenate-8-O-beta-D-glucoside	-13.4123465751
+C00294	Inosine	4.99987218385
+C05695	gamma-Glutamyl-Se-methylselenocysteine	-5.98952216611
+C00293	Glucose	-4.60350975716
+C00119	5-Phospho-alpha-D-ribose 1-diphosphate	-5.94358007467
+C00352	D-Glucosamine 6-phosphate	12.026414889
+C03494	D-Erythritol 4-phosphate	12.1851512666
+C05198	5'-Deoxyadenosine	-4.73616329116
+CE2061	CE2061	-8.81875284299
+C16356	1,7-Dimethyluric acid	-7.48786750098
+C05267	3-Oxooctanoyl-CoA	-6.25730646418
+C12455	5-Aminopentanal	-8.39632852478
+C00504	Folate	9.9202254852
+C14868	S-(1,2-Dichlorovinyl)glutathione	6.83658047422
+C01185	Nicotinate D-ribonucleotide	6.12424261775
+C00500	Biliverdin	5.38837361796
+C00267	alpha-D-Glucose	-4.60350975716
+ttdcrn	tetradecanoyl carnitine	5.3179934789
+CE7072	13'-carboxy-gama-tocotrienol	7.58812529868
+CE5536	adrenochrome	-4.60350975716
+C04640	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	12.4368545377
+C03410	N-Glycoloyl-neuraminate	-9.48233692039
+hpdcacrn	heptadecanoyl carnitine	4.14414925371
+egme	ecgonine methyl ester	-9.63626743053
+C08249	Pyrimidine 5'-deoxynucleotide	-11.6594071934
+C00328	L-Kynurenine	-8.04938589155
+C00124	D-Galactose	-4.60350975716
+C00280	Androst-4-ene-3,17-dione	-6.25310278518
+C00127	Glutathione disulfide	-7.88737204596
+C00128	CMP-N-acetylneuraminate	11.6068551688
+C00129	Isopentenyl diphosphate	5.49269055331
+CE5242	2-hydroxyestrone-1-S-glutathione	-4.88047722941
+CE5240	2-hydroxyestrone-4-S-glutathione	-4.88047722941
+CE5244	4-hydroxyestrone-2-S-glutathione	-4.88047722941
+C01045	N-Formyl-L-glutamate	-5.21736590386
+C01042	N-Acetyl-L-aspartate	-5.21736590386
+C06144	3-Butynoate	5.19227215449
+C11134	Testosterone glucuronide	4.57932503361
+C14877	C14877	11.7366450677
+C14873	C14873	6.46269196691
+C00055	CMP	-10.819924575
+C00725	Lipoate	7.34058417037
+C00051	Glutathione	-12.746529909
+C00601	Phenylacetaldehyde	12.1851512666
+C00217	D-Glutamate	8.04142981194
+C00214	Thymidine	-5.34514555707
+C02712	N-Acetylmethionine	-10.9608157781
+C00212	Adenosine	6.92679988452
+C07480	C07480	-4.60350975716
+C05841	Nicotinate D-ribonucleoside	6.21440814994
+tststeroneglc	testosterone glucuronide	4.57932503361
+C00031	D-Glucose	-4.60350975716
+C00137	myo-Inositol	-4.60350975716
+C02532	D-O-Phosphoserine	4.50747351323
+C00984	alpha-D-Galactose	-4.60350975716
+C00936	C00936	-4.60350975716
+C03824	2-Aminomuconate semialdehyde	8.28361711736
+CE4995	10,11-dihydro-12R-hydroxy-leukotriene E4	6.41653383082
+C05635	5-Hydroxyindoleacetate	11.1897525444
+C05634	5-Hydroxyindoleacetaldehyde	-4.87222696446
+CE6506	CE6506	-10.5585710276
+CE2209	5alpha-androstane-3alpha,17beta-diol	7.64664976092
+C00836	Sphinganine	-6.62859147683
+C16548	N,N-Didesmethyltamoxifen	-7.86680990818
+C04776	D-Galactosyl-3-(N-acetyl-beta-D-galactosaminyl)-L-serine	6.75250280543
+C00049	L-Aspartate	-4.59548979712
+C00206	dADP	-6.11387154277
+C00738	D-Hexose	-4.60350975716
+CE2172	CE2172	-5.81518830202

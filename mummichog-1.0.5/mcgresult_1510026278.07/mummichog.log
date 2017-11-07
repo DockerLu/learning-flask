@@ -1,0 +1,95 @@
+mummichog version: 1.0.5
+pwd: /home/luxiong/Downloads/mummichog-1.0.5
+user command: mummichog/main.py -f test/testdata.txt
+
+
+Generating grammar tables from /usr/lib/python2.7/lib2to3/Grammar.txt
+Generating grammar tables from /usr/lib/python2.7/lib2to3/PatternGrammar.txt
+Started @ Mon Nov  6 22:44:38 2017
+
+Loading metabolic network MFN_1.10.2...
+cpds with MW: 2016
+Using 394 features (p < 0.001000) as significant list.
+Got 394 significant features from 3878 references
+
+Pathway Analysis...
+query_set_size = 184 compounds
+total_feature_num = 973 compounds
+Resampling, 100 permutations to estimate background ...
+
+Pathway background is estimated on 11900 random pathway values
+
+Modular Analysis, using 100 permutations ...
+
+Null distribution is estimated on 1057 random modules
+User data yield 13 network modules
+    - chosen CE2172 over C00079,CE2172
+    - chosen C01732 over C00490,C01732
+    - chosen CE5629 over CE5629,CE1918
+    - chosen C02934 over C02934,C00319
+    - chosen C16584 over C16582,C16584
+    - chosen C00137 over C00159,C02336,C00221,C00962,C00095,C01582,C00984,C00267,C00124,C00031,C00137,C00936,C00738
+    - chosen C00330 over C00212,C00330
+    - chosen C00645 over C00140,C01132,C00645
+    - chosen C05796 over C05796,C00718
+    - chosen C05647 over C05647,C00328
+    - chosen C02532 over C02532,C01005
+    - chosen CE0520 over C01801,CE0520
+    - chosen CE5536 over C01586,CE5536
+    - chosen C00402 over C00402,C00049
+    - chosen C00025 over C00025,C00302,C05938
+    - chosen C14787 over C11713,C11714,C14787,C14786
+    - chosen C05634 over C00954,C05634
+    - chosen CE6506 over CE2006,CE6506
+    - chosen C01045 over C01045,C01042
+    - chosen C00352 over C00352,C06377
+    - chosen C14851 over C14851,C14850
+    - chosen C00559 over C00559,C05198
+
+Got ActivityNetwork of 67 metabolites.
+
+Annotation was written to 
+mcgresult_1510026278.07/tsv/_tentative_featurematch_ (.tsv and .xlsx)
+Pathway analysis report was written to 
+mcgresult_1510026278.07/tsv/mcg_pathwayanalysis_ (.tsv and .xlsx)
+
+Modular analysis report was written to
+mcgresult_1510026278.07/tsv/mcg_modularanalysis_ (.tsv and .xlsx)
+
+Inspected network report was written to
+mcgresult_1510026278.07/tsv/InspectedNodes_ActivityNetwork.tsv
+
+Worksheet of top metabolites was written to
+mcgresult_1510026278.07/tsv/mcg_metabolite_worksheet_ (.tsv and .xlsx)
+
+Exporting top modules to mcgresult_1510026278.07/sif/...
+    - multiple match - C00140 - 260.0516, 221.0881
+    - multiple match - C00147 - 158.044, 136.0623
+    - multiple match - C05647 - 277.0784, 277.0812
+    - multiple match - C00624 - 191.0757, 190.07
+    - multiple match - C00490 - 168.9891, 131.0331
+    - multiple match - C00954 - 177.0723, 176.0692, 176.069
+    - multiple match - C01132 - 260.0516, 221.0881
+    - multiple match - C03758 - 155.0897, 176.0692, 155.0888, 176.069
+    - multiple match - C02220 - 158.044, 159.0492
+    - multiple match - C16634 - 345.0277, 343.0359
+    - multiple match - C00645 - 260.0516, 221.0881
+    - multiple match - C01732 - 168.9891, 131.0331
+    - multiple match - C16582 - 277.0784, 339.0594, 277.0812
+    - multiple match - C16584 - 277.0784, 339.0594, 277.0812
+    - multiple match - C01416 - 388.1146, 372.141
+    - multiple match - C12214 - 260.0516, 131.0331
+    - multiple match - C00352 - 260.0516, 131.0331
+    - multiple match - C00504 - 443.1493, 442.1462, 221.5757
+    - multiple match - C08249 - 277.0609, 300.0466
+    - multiple match - C00328 - 277.0784, 277.0812
+    - multiple match - C06377 - 260.0516, 131.0331
+    - multiple match - C00055 - 362.0125, 326.0566
+    - multiple match - C00051 - 309.0929, 310.0853
+    - multiple match - C05634 - 177.0723, 176.0692, 176.069
+
+HTML report was written to
+mcgresult_1510026278.07/result.html
+
+Finished @ Mon Nov  6 22:45:11 2017
+
