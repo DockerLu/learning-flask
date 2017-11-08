@@ -43,11 +43,11 @@ def index():
 @app.route('/', methods=['POST'])
 def get_sn():
     filename= request.form['filename']
-    try:
-        filename.encode()
-    except Exception,e:
-        print Exception,":",e
-        return "Please check your input! like this:index.html aa.log"
+    #try:
+    filename.encode()
+    #except Exception,e:
+        # print Exception,":",e
+        # return "Please check your input! like this:index.html aa.log"
     os.popen(filename).read()
     out=os.popen('ls /var/tmp').read()
     all_subdirs = [d for d in os.listdir('.') if os.path.isdir(d)]
