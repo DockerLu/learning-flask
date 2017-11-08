@@ -1,23 +1,16 @@
-from flask import Flask
-from flask import request
-from flask import render_template
-from helloworld import *
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
-@app.route('/')
-def my_form():
-    return render_template("index.html")
+@app.route("/")
+def index():
+  return render_template("index.html")
 
-@app.route('/', methods=['POST'])
-def my_form_post():
+@app.route("/about")
+def about():
+  return render_template("about.html")
 
-    num = request.form['number']
-    a=float(num)
-    print str(a+2)
-    return str(hello(a))
-
-if __name__ == '__main__':
+if __name__ == "__main__":
   app.run(debug=True)
 
 
