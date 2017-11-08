@@ -54,8 +54,8 @@ def get_sn():
     latest_subdir = max(all_subdirs, key=os.path.getmtime)
     return render_template(latest_subdir+'/result.html')
 
-def index():
-    return render_template('static.html')
+#def index():
+#    return render_template('static.html')
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0',port=5000,debug=True)
